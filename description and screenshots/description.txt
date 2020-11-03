@@ -1,0 +1,10 @@
+This site i created for our store. We treade carpets and 
+ I thinking with my site many more people will get to know
+and trade will be better.
+In my project I used all requirements <div>,<id> bootstrap etc.
+And if to clarify primarily bootstrap with buttons "register",
+"click", and "call us". Then I added <section> after description 
+about our store and also our products and 6 images.
+The most interesting in my site. You can like video, which
+I added from YouTube.
+And lastly <footer> with contact information.
